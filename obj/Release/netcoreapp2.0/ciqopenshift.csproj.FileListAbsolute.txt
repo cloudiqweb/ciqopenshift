@@ -1,0 +1,11 @@
+C:\vaidhyanathan\ciqopenshift\bin\Release\netcoreapp2.0\ciqopenshift.deps.json
+C:\vaidhyanathan\ciqopenshift\bin\Release\netcoreapp2.0\ciqopenshift.runtimeconfig.json
+C:\vaidhyanathan\ciqopenshift\bin\Release\netcoreapp2.0\ciqopenshift.runtimeconfig.dev.json
+C:\vaidhyanathan\ciqopenshift\bin\Release\netcoreapp2.0\ciqopenshift.dll
+C:\vaidhyanathan\ciqopenshift\bin\Release\netcoreapp2.0\ciqopenshift.pdb
+C:\vaidhyanathan\ciqopenshift\obj\Release\netcoreapp2.0\ciqopenshift.csprojResolveAssemblyReference.cache
+C:\vaidhyanathan\ciqopenshift\obj\Release\netcoreapp2.0\ciqopenshift.csproj.CoreCompileInputs.cache
+C:\vaidhyanathan\ciqopenshift\obj\Release\netcoreapp2.0\ciqopenshift.AssemblyInfoInputs.cache
+C:\vaidhyanathan\ciqopenshift\obj\Release\netcoreapp2.0\ciqopenshift.AssemblyInfo.cs
+C:\vaidhyanathan\ciqopenshift\obj\Release\netcoreapp2.0\ciqopenshift.dll
+C:\vaidhyanathan\ciqopenshift\obj\Release\netcoreapp2.0\ciqopenshift.pdb
